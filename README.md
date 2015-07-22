@@ -6,7 +6,7 @@ This is the repository containing all questions, solutions, and presentations fo
 
 Naming: Please name all files in the following manner:
 
-`<topic>_<material type>_<challenge name (if applicable)>_<question or solution (if applicable>_<your github name>`
+`<topic>_<challenge name (if applicable)>_<question or solution or presentation>_<your github name>`
 
 Questions should only be uploaded when you have a correct/working solution uploaded at the same time.
 

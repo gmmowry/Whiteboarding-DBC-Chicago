@@ -16,3 +16,13 @@ Feel free to use given powerpoints or tweak/create one to your own preferences, 
 
 
 Please contact Glenna Mowry @gmmowry or Dalal Alrayes @dalrayes if you have any questions! :)
+
+
+## Topic Schedule
+
+1. Intro to Whiteboarding
+2. Stacks & Queues
+3. Recursion
+4. Big O
+5. Linked Lists
+6. Trees

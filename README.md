@@ -6,7 +6,7 @@ This is the repository containing all questions, solutions, and presentations fo
 
 All the session leads and organizers would love your feedback after you attend a Whiteboarding Session. Please use this link to let us know how we're doing. 
 
-[Feedback Form] (bit.ly/chi-whiteboarding-feedback)    
+[Feedback Form] (http://bit.ly/chi-whiteboarding-feedback)    
 
 ## Resources & Links
 

@@ -12,7 +12,8 @@ Where to start:
 
 ### Solutions
 Add a link to your solution here:
-[arnamak's Recursive People Creator solution](https://github.com/gmmowry/Whiteboarding-DBC-Chicago/blob/master/solutions/recursive_person_creator_solution_arnamak.rb)
+
+* [arnamak's Recursive People Creator solution](https://github.com/gmmowry/Whiteboarding-DBC-Chicago/blob/master/solutions/recursive_person_creator_solution_arnamak.rb)
 
 #### Resources:
 [Link to a basic 200-person CSV file](http://pastebin.com/J0mF3YrW)
